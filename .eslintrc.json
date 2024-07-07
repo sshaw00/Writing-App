@@ -1,0 +1,10 @@
+{
+  "globals": {
+    "location": "readonly"
+  },
+
+  "parserOptions": {
+    "parser": "@babel/eslint-parser",
+    "requireConfigFile": false
+  }
+}

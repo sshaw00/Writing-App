@@ -1,0 +1,21 @@
+.auth-card {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1.5rem;
+  width: 30rem;
+  padding: 2rem;
+  max-width: 95vw;
+  margin: 2rem auto 1rem auto;
+}
+.auth-card .title-wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.signup .MuiFormControlLabel-label {
+  font-size: 0.86rem !important;
+}

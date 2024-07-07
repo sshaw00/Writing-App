@@ -1,0 +1,28 @@
+.logo {
+  height: 50px;
+}
+
+.navbar {
+  padding: 15px;
+}
+
+@media (max-width: 392px) {
+  .btn {
+    padding: 0px;
+  }
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.auth-buttons {
+  display: flex;
+  gap: 10px; /* Adjust the gap as needed */
+}
+
+.btn {
+  margin: 0 5px; /* Optional: Adjust the margin as needed */
+}
